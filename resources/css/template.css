@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+body{
+padding-top: 70px;
+padding-bottom:70px; 
+}
+
+.path{
+  display:none;
+}
+
+.d_h_1{
+display:none;
+}
+.nr_info{
+display:none;
+}
+
+.nr_con #info{
+display:none;
+}
+
+.footerbox{
+  display:none;
+}
+
+.page{
+ display:none;
+}
+
+.nr_con font{
+  display:none;
+}
